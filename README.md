@@ -77,6 +77,23 @@ Performed deeper business analysis using advanced SQL concepts:
 
 ![Advanced SQL Analysis](Advanced%20SQL%20Analysis%20%E2%80%93%20Superstore%20Sales%20Dataset.png)---
 
+## Power BI Dashboard Development
+
+Started building an interactive Power BI dashboard to transform SQL insights into visual business intelligence.
+
+Current dashboard includes:
+- KPI cards
+- Regional sales analysis
+- Category-wise sales breakdown
+- Monthly sales trend analysis
+- Interactive slicers
+
+---
+
+## Dashboard Preview
+
+![Power BI Dashboard](Power%20BI%20Dashboard%20Foundation.png)
+
 ## Repository Structure
 
 ```text
