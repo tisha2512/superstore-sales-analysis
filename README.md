@@ -62,7 +62,20 @@ Performed business analysis using SQL queries:
 
 ![SQL Analysis](SQL%20Business%20Analysis%20%E2%80%93%20Superstore%20Sales%20Dataset.png)
 
+### Advanced SQL Analysis
+Performed deeper business analysis using advanced SQL concepts:
+- Monthly sales trend analysis
+- Average shipping duration analysis
+- Category performance by region
+- Customer order behaviour analysis
+- CASE WHEN conditional classification
+- HAVING clause filtering
+
 ---
+
+## Advanced SQL Analysis Preview
+
+![Advanced SQL Analysis](Advanced%20SQL%20Analysis%20%E2%80%93%20Superstore%20Sales%20Dataset.png)---
 
 ## Repository Structure
 
