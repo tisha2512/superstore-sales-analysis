@@ -94,6 +94,30 @@ Current dashboard includes:
 
 ![Power BI Dashboard](Power%20BI%20Dashboard%20Foundation.png)
 
+## Power BI Dashboard Development
+
+Built an interactive Power BI dashboard to transform SQL insights into visual business intelligence.
+
+Dashboard features include:
+- KPI cards for sales, orders, customers, and shipping performance
+- Regional sales analysis
+- Customer segment analysis
+- High vs low value sales comparison
+- Shipping mode analysis
+- Monthly sales trend analysis
+- Top-performing products analysis
+- Interactive slicers for filtering insights
+
+The dashboard was refined with improved layout structuring, visual storytelling, spacing, and colour consistency to create a cleaner business-focused reporting experience.
+
+Validated Power BI visuals against SQL outputs to ensure reporting accuracy.
+
+---
+
+## Final Dashboard Preview
+
+![Final Dashboard](Final%20Superstore%20Sales%20Dashboard.png)
+
 ## Repository Structure
 
 ```text
