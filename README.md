@@ -118,15 +118,39 @@ Validated Power BI visuals against SQL outputs to ensure reporting accuracy.
 
 ![Final Dashboard](Final%20Superstore%20Sales%20Dashboard.png)
 
+---
+
+## Python Advanced Analytics
+
+Performed additional statistical and predictive analysis using Python to extend the project beyond dashboard reporting.
+
+Python analysis included:
+- Sales distribution analysis
+- Sales outlier detection using boxplots
+- Shipping days distribution analysis
+- Customer spending behaviour analysis
+- Predictive sales forecasting using linear regression
+
+The Python phase focused on statistical insights and forecasting rather than dashboard visualisation, complementing the SQL and Power BI workflow.
+
+---
+
+## Python Statistical & Forecasting Analysis
+
+![Python Analysis](Python%20Statistical%20%26%20Forecasting%20Analysis.png)
+
 ## Repository Structure
 
-```text
 superstore-sales-analysis/
-│
-├── README.md
-├── sales_analysis_queries.sql
-├── SQL Business Analysis – Superstore Sales Dataset.png
 
-## Author
-Tisha Rawat
-Aspiring Business Analyst
+│── README.md
+
+│── sales_analysis_queries.sql
+
+│── Final Superstore Sales Dashboard.png
+
+│── Final_Superstore_Sales_Dashboard.pbix
+
+│── superstore_python_analysis.ipynb
+
+│── Python Statistical & Forecasting Analysis.png
